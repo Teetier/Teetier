@@ -8,24 +8,58 @@
   <img src="https://komarev.com/ghpvc/?username=teetier&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
----
+## 💻 What's In My TechKit:
 
-### :hammer_and_wrench: Languages and Tools :
+#### Programming Languages: 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<p align="start"> <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge" /><span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/Ruby-black?logo=ruby&logoColor=red&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue&style=for-the-badge" />
+</p>
 
----
+#### Front-End Development: 
 
-### :fire: My Stats :
+<p align="start">
+<img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=red&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=blue&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/TAILWIND CSS-black?logo=tailwindcss&logoColor=turquoise&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/FIGMA-black?logo=figma&logoColor=orange&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/Framer Motion-black?logo=framer&logoColor=purple&style=for-the-badge" />
+</p>
+
+#### Frameworks:
+
+<p align="start">
+<img src="https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/NODE.JS-black?logo=node.js&logoColor=green&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/REACT.JS-black?logo=react&logoColor=blue&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/RUBY ON RAILS-black?logo=rubyonrails&logoColor=red&style=for-the-badge" />
+</p>
+
+#### Database & Cloud Hosting:
+
+<p align="start">
+<img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=blue&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=orange&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=green&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/VERCEL-black?logo=vercel&logoColor=white&style=for-the-badge" />
+</p>
+
+## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teetier&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teetier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
