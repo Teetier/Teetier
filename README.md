@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h2>Hi there 👋</h2>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,6 +16,8 @@
 
 <p align="start"> <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge" /><span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/Ruby-black?logo=ruby&logoColor=red&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/golang-black?logo=go&logoColor=blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue&style=for-the-badge" />
 </p>
@@ -32,7 +36,7 @@
 <img src="https://img.shields.io/badge/Framer Motion-black?logo=framer&logoColor=purple&style=for-the-badge" />
 </p>
 
-#### Frameworks:
+#### Frameworks & Library:
 
 <p align="start">
 <img src="https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white&style=for-the-badge" />
@@ -47,13 +51,18 @@
 #### Database & Cloud Hosting:
 
 <p align="start">
-<img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sqlite-black?logo=sqlite&logoColor=blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=orange&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=green&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/VERCEL-black?logo=vercel&logoColor=white&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/Netlify-black?logo=netlify&logoColor=blue&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/Render-black?logo=render&logoColor=white&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
 ## :fire: My Stats :
