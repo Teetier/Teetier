@@ -1,7 +1,8 @@
 <div id="header" align="center">
-    <h2>Hi there 👋</h2>
+    <h2>Hi there 👋</h2> 
 </div>
-
+<br>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -9,8 +10,11 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=teetier&style=flat-square&color=blue" alt="account counter"/>
 </div>
+<br>
+<br>
 
 ## 💻 What's In My TechKit:
+<br>
 
 #### Programming Languages: 
 
@@ -64,11 +68,15 @@
 <img src="https://img.shields.io/badge/Render-black?logo=render&logoColor=white&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 </p>
+<br>
+<br>
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teetier&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teetier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
