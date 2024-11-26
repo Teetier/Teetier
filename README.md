@@ -23,7 +23,9 @@
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
-<img src="https://img.shields.io/badge/golang-black?logo=go&logoColor=blue&style=for-the-badge" />
+<img src="https://img.shields.io/badge/NODE.JS-black?logo=node.js&logoColor=green&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=Blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/Ruby-black?logo=ruby&logoColor=red&style=for-the-badge" />
 </p>
@@ -49,7 +51,7 @@
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
-<img src="https://img.shields.io/badge/NODE.JS-black?logo=node.js&logoColor=green&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/RUBY ON RAILS-black?logo=rubyonrails&logoColor=red&style=for-the-badge" />
 </p>
@@ -79,3 +81,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teetier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+## ✍️ Random Dev Quote
+![](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
