@@ -18,12 +18,14 @@
 
 #### Programming Languages: 
 
-<p align="start"> <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge" /><span>&nbsp;&nbsp;&nbsp;</span>
-<img src="https://img.shields.io/badge/Ruby-black?logo=ruby&logoColor=red&style=for-the-badge" />
+<p align="start"> 
+<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/golang-black?logo=go&logoColor=blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
-<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ruby-black?logo=ruby&logoColor=red&style=for-the-badge" />
 </p>
 
 #### Front-End Development: 
@@ -43,11 +45,11 @@
 #### Frameworks & Library:
 
 <p align="start">
+<img src="https://img.shields.io/badge/REACT.JS-black?logo=react&logoColor=blue&style=for-the-badge" />
+    <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/NEXT.JS-black?logo=next.js&logoColor=white&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/NODE.JS-black?logo=node.js&logoColor=green&style=for-the-badge" />
-    <span>&nbsp;&nbsp;&nbsp;</span>
-<img src="https://img.shields.io/badge/REACT.JS-black?logo=react&logoColor=blue&style=for-the-badge" />
     <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://img.shields.io/badge/RUBY ON RAILS-black?logo=rubyonrails&logoColor=red&style=for-the-badge" />
 </p>
@@ -77,6 +79,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teetier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
